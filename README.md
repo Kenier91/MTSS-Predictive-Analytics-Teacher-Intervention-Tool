@@ -1,7 +1,5 @@
 # MTSS Predictive Analytics & Teacher Intervention Tool
 
----
-
 **Author:** Kenier Ramirez, M.Sc. in Data Analytics  
 **ORCID:** [0009-0001-9900-2473](https://orcid.org/0009-0001-9900-2473)
 
