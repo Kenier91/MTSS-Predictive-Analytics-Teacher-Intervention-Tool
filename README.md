@@ -62,4 +62,8 @@ To predict the final State Accountability score, the pipeline tests an ensemble 
 * `/sample_outputs`: Anonymized Excel workbooks demonstrating the exact MTSS Tiering deliverables and EOC/PM3 predictions handed to instructional coaches and teachers.
 
 ---
-*Developed by Kenier Ramirez, M.S.D.A | 2025*
+
+## 📬 Contact & Connect
+I am passionate about building solutions that bridge Business Intelligence, Data Analytics, and Education—turning data into actionable insights that drive measurable student impact. 
+
+**LinkedIn:** [Kenier Ramirez](https://linkedin.com/in/kenier-ramirez-9456a725a)
