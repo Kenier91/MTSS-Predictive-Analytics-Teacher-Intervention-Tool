@@ -1,6 +1,11 @@
 # MTSS Predictive Analytics & Teacher Intervention Tool
 
+---
 
+**Author:** Kenier Ramirez, M.Sc. in Data Analytics  
+**ORCID:** [0009-0001-9900-2473](https://orcid.org/0009-0001-9900-2473)
+
+---
 
 ## Executive Summary
 This project is an automated, end-to-end Python data pipeline designed to transform school-wide Multi-Tiered System of Supports (MTSS) problem-solving. By bridging the gap between historical assessment data and predictive analytics, this tool empowers educational leadership to proactively target student interventions months before high-stakes state accountability testing. 
